@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: black; */
+  /* color: white; */
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+}
+
+.list-li {
+  margin-right: 50px;
+  font-size: 26px;
+  cursor: pointer;
+  /* color: white; */
+  text-decoration: none;
+}

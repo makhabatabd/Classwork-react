@@ -1,0 +1,10 @@
+.pizzas-list {
+  display: flex;
+  /* background-color: black; */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* color: white; */
+  text-align: center;
+  font-size: 20px;
+}

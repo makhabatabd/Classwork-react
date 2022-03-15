@@ -1,0 +1,17 @@
+.about {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 400px;
+}
+
+.about h2 {
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.about p {
+  font-size: 20px;
+  margin: 0 auto;
+  padding: 10px 0;
+}

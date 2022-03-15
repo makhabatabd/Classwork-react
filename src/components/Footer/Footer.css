@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  /* background-color: black; */
+  /* color: red; */
+  padding-bottom: 30px;
+  padding-top: 40px;
+}
+
+.footer-list {
+  font-size: 20px;
+}

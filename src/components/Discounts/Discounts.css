@@ -1,0 +1,13 @@
+.discounts {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  color: white;
+  height: 400px;
+}
+
+.discount {
+  width: 300px;
+  font-size: 28px;
+  text-align: center;
+}
